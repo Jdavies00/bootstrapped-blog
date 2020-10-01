@@ -9,30 +9,9 @@ body {
     color: #373fff;
   }
   
-  a.carousel-control-prev:hover,
-  a.carousel-control-next:hover{
-    background-color: #7189bf66;
-  }
-  
-  .carousel-indicators li {
-    background-color: #7189bf;
-  }
-  
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
   
   /* Change these colors */
-  .brand-main {
-    background-color: #727ced; /* <strike>Main Background Color </strike>*/
-  }
-  
-  .brand {
-    background-color: #fabd43; /* Header and Footer bar Color */
-  }
-  
-  
+  /* .brand-main {
+    background-color: #17a2b8 }
+    /* <strike>Main Background Color </strike>*/
   
